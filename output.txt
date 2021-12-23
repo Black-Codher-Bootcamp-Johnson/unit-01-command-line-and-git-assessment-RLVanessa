@@ -1,0 +1,43 @@
+Script started on 2021-12-21 19:29:01+00:00 [TERM="dumb" TTY="/dev/tty1" COLUMNS="66" LINES="32"]
+<mmand-line-and-git-assessment-RLVanessa$ cat output.txt
+<mmand-line-and-git-assessment-RLVanessa$ output                                                                                                                                          vanessa@DESKTOP-LLCUFUE:~/assessment/unit-01-command-line-and-git-assessment-RLVanessa$                                                                  <mmand-line-and-git-assessment-RLVanessa$ cd assessment
+bash: cd: assessment: No such file or directory
+<mmand-line-and-git-assessment-RLVanessa$                                                                                                                                     vanessa@DESKTOP-LLCUFUE:~/assessment/unit-01-command-line-and-git-assessment-RLVanessa$ cd ..
+vanessa@DESKTOP-LLCUFUE:~/assessment$ cd unit-01-command-line-and-git-ss  assessmne  ent-RLVanessa
+vanessa@DESKTOP-LLCUFUE:~/assessment/unit-01-command-line-and-git-assessment-RLVanessa$                                                                  <mmand-line-and-git-assessment-RLVanessa$                                                                  <mmand-line-and-git-assessment-RLVanessa$                                                                  <mmand-line-and-git-assessment-RLVanessa$ mkdir folder1 folder2-folder1 folder2vfolder1 folder2 folder1 folde>folder1 folder2folder1 folder2 folder1 folder2 folder1 folder2 folder1 folder2 folder1 folder2 folder1 folder2 folder1 folder2 folder1 folder2 <mmand-line-and-git-assessment-RLVanessa$ f<mmand-line-and-git-assessment-RLVanessa$ fo<mmand-line-and-git-assessment-RLVanessa$ fol<mmand-line-and-git-assessment-RLVanessa$ fold<mmand-line-and-git-assessment-RLVanessa$ folde<mmand-line-and-git-assessment-RLVanessa$ folder<mmand-line-and-git-assessment-RLVanessa$ folder1<mmand-line-and-git-assessment-RLVanessa$ folder1 <mmand-line-and-git-assessment-RLVanessa$ folder1 f<mmand-line-and-git-assessment-RLVanessa$ folder1 fo<mmand-line-and-git-assessment-RLVanessa$ folder1 fol<mmand-line-and-git-assessment-RLVanessa$ folder1 fold<mmand-line-and-git-assessment-RLVanessa$ folder1 folde<mmand-line-and-git-assessment-RLVanessa$ folder1 folder<mmand-line-and-git-assessment-RLVanessa$ folder1 folder2
+
+Command 'folder1' not found, did you mean:
+
+  command 'folders' from deb mailutils-mh (1:3.7-2.1)
+  command 'folders' from deb mmh (0.4-2)
+  command 'folders' from deb nmh (1.7.1-6)
+  command 'folder' from deb mailutils-mh (1:3.7-2.1)
+  command 'folder' from deb mmh (0.4-2)
+  command 'folder' from deb nmh (1.7.1-6)
+
+Try: sudo apt install <deb name>
+
+<mmand-line-and-git-assessment-RLVanessa$ mkdir -v folder  1 fold<essment-RLVanessa$ mkdir -v folder1 folde                     r2
+mkdir: created directory 'folder1'
+mkdir: created directory 'folder2'
+<mmand-line-and-git-assessment-RLVanessa$ touchfo ile1.yt  txt f            file. 1.txt file2<essment-RLVanessa$ touch file1.txt file2.                     txt fil3 3 e3.txt
+<mmand-line-and-git-assessment-RLVanessa$ ls
+README.md  file2.txt  folder1  output.txt         package.json
+file1.txt  file3.txt  folder2  package-lock.json
+<mmand-line-and-git-assessment-RLVanessa$ mv file1.txt 
+mv: missing destination file operand after 'file1.txt'
+Try 'mv --help' for more information.
+<mmand-line-and-git-assessment-RLVanessa$ mv file1.txtx  folder1
+<mmand-line-and-git-assessment-RLVanessa$ mv file2.txtx  folder2
+<mmand-line-and-git-assessment-RLVanessa$ cd folder1
+<ne-and-git-assessment-RLVanessa/folder1$ ls
+file1.txt
+<ne-and-git-assessment-RLVanessa/folder1$ pwd
+/home/vanessa/assessment/unit-01-command-line-and-git-assessment-RLVanessa/folder1
+<ne-and-git-assessment-RLVanessa/folder1$ cd ...
+bash: cd: ...: No such file or directory
+<ne-and-git-assessment-RLVanessa/folder1$ cd ..
+<mmand-line-and-git-assessment-RLVanessa$ exit
+exit
+
+Script done on 2021-12-21 19:41:45+00:00 [COMMAND_EXIT_CODE="0"]
